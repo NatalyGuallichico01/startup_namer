@@ -1,1 +1,4 @@
-# startup_namer
+# Integrantes:
+-Alejandro Armas
+-Paul Guala
+-Nataly Guallichico
